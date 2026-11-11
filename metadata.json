@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect AI – University Campus Helpdesk",
+  "description": "An intelligent full-stack university campus helpdesk powered by Gemini AI, assisting students 24/7 across academics, attendance, examinations, placements, hostel, library, and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
